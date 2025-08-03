@@ -1,9 +1,10 @@
-# Chat App
+# Chat App 💬
 
-Node.js, React (HTML/CSS, JavaScript)<br><br>
-Chat käyttöliittymä on tehty Reactilla. Chatin serveri on JavaScriptillä tehty WebSocket server.
+Web chat application with basic functionalities
 
-## Ominaisuudet
-- Käyttäjä voi päättää nimimerkin ja nimensä värin
-- Sen jälkeen käyttäjä voi lähettää viestejä chatissa
-- Ja vastaanottaa muiden käyttäjien viestejä
+Server side is created with Node.js (WebSocket) and the UI with React (Vite, Vanilla JS)
+
+## Features
+- Select your username and color
+- Send messages in chat
+- Receive messages of others in the same network
