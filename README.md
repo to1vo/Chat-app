@@ -8,3 +8,6 @@ Server side is created with Node.js (WebSocket) and the UI with React (Vite, Van
 - Select your username and color
 - Send messages in chat
 - Receive messages of others in the same network
+
+<br>
+Toivo Lindholm
