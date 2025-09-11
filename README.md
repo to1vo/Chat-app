@@ -10,4 +10,4 @@ Server side is created with Node.js (WebSocket) and the UI with React (Vite, Van
 - Receive messages of others in the same network
 
 <br>
-Toivo Lindholm
+Toivo Lindholm 2024
